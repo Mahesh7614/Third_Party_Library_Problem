@@ -1,0 +1,34 @@
+[
+  {
+    "firstName": "Mahesh",
+    "lastName": "Waghmare",
+    "address": "Hari om niwas",
+    "city": "Ahmedpur",
+    "state": "Maharashtra",
+    "zipCode": "413515"
+  },
+  {
+    "firstName": "Umesh",
+    "lastName": "Waghmare",
+    "address": "Chera",
+    "city": "Jalkot",
+    "state": "Maharashtra",
+    "zipCode": "413514"
+  },
+  {
+    "firstName": "Yashwant",
+    "lastName": "Kadam",
+    "address": "Holkar Nagar",
+    "city": "Parbhani",
+    "state": "Maharashtra",
+    "zipCode": "416006"
+  },
+  {
+    "firstName": "Sanjeev",
+    "lastName": "Singh",
+    "address": "Aparna Residency",
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "zipCode": "206001"
+  }
+]
